@@ -1,0 +1,9 @@
+{
+  "name": "Ürün Kart Editörü",
+  "short_name": "KartEditör",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4466b3",
+  "orientation": "landscape"
+}
